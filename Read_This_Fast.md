@@ -12,4 +12,5 @@ Things Added ~~Browser, Forled Locker, Date & time & Clculatro~~ & ***More Comin
 `Download My Program`: __**http://netb.ee/notepadpro**__ [***Uploaded By Me***]
 
 ***If You Love My Projects Plz Donate To Keep My Projects :) https://www.patreon.com/esmailelbob 
+
 or BitCoin : __33imQm5ubYNnQ9tpbd1C7xmVVv8GunFNnA__***
