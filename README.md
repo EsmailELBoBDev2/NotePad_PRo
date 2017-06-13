@@ -12,7 +12,8 @@
 
 
 
-Added: Browser, Forled Locker, Date & time & Calculator & Login Screen
+# Added 
+Browser, Forled Locker, Date & time & Calculator & Login Screen
 
 
 
