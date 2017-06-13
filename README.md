@@ -12,7 +12,7 @@
 
 
 
-Added Browser, Forled Locker, Date & time & Clculatro & Login Screen
+Added: Browser, Forled Locker, Date & time & Clculatro & Login Screen
 
 
 
