@@ -12,6 +12,9 @@
 
 
 
+
+
+
 # Added 
 
 **Browser, Forled Locker, Date & time & Calculator & Login Screen**
@@ -20,17 +23,18 @@
 
 # Wath's New ?
 
-1-**Login Screen**
+1-**Login Screen** [***Removed Password**] 
+2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
 
 
 
 # Downloads
 
-1-**The VB Project**: __***http://netb.ee/vbproject***__
+1-**The VB Project**: __***http://netb.ee/vbproject***__ [**NOT UPDATED YET**]
 
 2-**VB With Serial**:  __***http://netb.ee/vbnetampserial***__ 
 
-3-**My NORMAL Program**:  __***http://netb.ee/notepadpro***__
+3-**My NORMAL Program**:  __***http://netb.ee/notepadpro***__ [**UPDATED**]
 
 
 
