@@ -24,6 +24,7 @@
 # Wath's New ?
 
 1-**Login Screen** [***Removed Password**] 
+
 2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
 
 
