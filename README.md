@@ -27,15 +27,18 @@
 
 2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
 
+3-**Edited On Forms Prop**
+
+4-**Removed Some Codes**
 
 
 # Downloads
 
-1-**The VB Project**: __***http://netb.ee/vbproject***__ [**NOT UPDATED YET**]
+1-**The VB Project**: ***http://netb.ee/vbproject*** [**UPDATED**] ***19/07/2017***
 
-2-**VB With Serial**:  __***http://netb.ee/vbnetampserial***__ 
+2-**VB With Serial**:  ***http://netb.ee/vbnetampserial***
 
-3-**My NORMAL Program**:  __***http://netb.ee/notepadpro***__ [**UPDATED**]
+3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***19/07/2017
 
 
 
