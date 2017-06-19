@@ -18,7 +18,7 @@
 
 2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
 
-3-**Edited On Forms Prop**
+3-**Edited On Forms Properties**
 
 4-**Removed Some Codes**
 # ----------------------------------------
