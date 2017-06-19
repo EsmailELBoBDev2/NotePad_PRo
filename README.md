@@ -7,20 +7,11 @@
 3-***Downloads***
 
 4-***Support***
-
-
-
-
-
-
-
-
+# ----------------------------------------
 # Added 
 
 **Browser, Forled Locker, Date & time & Calculator & Login Screen**
-
-
-
+# ----------------------------------------
 # Wath's New ?
 
 1-**Login Screen** [***Removed Password**] 
@@ -30,18 +21,15 @@
 3-**Edited On Forms Prop**
 
 4-**Removed Some Codes**
-
-
+# ----------------------------------------
 # Downloads
 
 1-**The VB Project**: ***http://netb.ee/vbproject*** [**UPDATED**] ***19/07/2017***
 
 2-**VB With Serial**:  ***http://netb.ee/vbnetampserial***
 
-3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***19/07/2017
-
-
-
+3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***19/07/2017***
+# ----------------------------------------
 # Support
 
 1-**Patreon**: __***https://www.patreon.com/esmailelbob***__
