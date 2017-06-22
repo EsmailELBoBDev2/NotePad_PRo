@@ -59,12 +59,4 @@
 
 *Send Me E-mail On*  **mailto:esmailelbob01124320019@gmail.com** ***From Windows 10, 8.1 & 8*** 
 
-*Or Go Here*  **https://mail.google.com/mail/u/0/#inbox?compose=15ccd5cc1e6f0f9a** ***& Wait 1m*** 
-(**Must Be Logged In Gmail**)
-# $$$$$$$$$$$$$$$$$$$$
-# .:List Of Partners:.
-
-1-***Still Nothing :(***
-# $$$$$$$$$$$$$$$$$$$$
-
-# ----------------------------------------
+*Or Go Here*  **https://mail.google.com/mail/u/0/#inbox?compose=15ccd5cc1e6f0f9a** ***& Wait 1m*** (**Must Be Logged In Gmail**)
