@@ -16,19 +16,24 @@
 # ----------------------------------------
 # Wath's New ?
 
+# (For Users)
 1-**Login Screen** [***Added Password Again**] 
 
 2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
 
-3-**Edited On Forms Properties**
+3-**Added Option Startup With Windows**
 
-4-**Removed Some Codes**
+4-**Added Encrypt Words Program**
 
-5-**Added Option Startup With Windows**
+5-**Added Screen Shots Program**
 
-6-**Added Encrypt Words Program**
+# (For Devs)
 
-7-**Added Screen Shots Program**
+1-**Edited On Forms Properties**
+
+2-**Removed Some Codes**
+
+3-**Removed Some Forms & Add Msgboxs**
 # ----------------------------------------
 # Downloads
 
