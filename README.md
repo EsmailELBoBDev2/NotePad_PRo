@@ -37,11 +37,11 @@
 # ----------------------------------------
 # Downloads
 
-1-**The VB Project**: ***http://netb.ee/notepadproongithub*** [**UPDATED**] (***Uploaded On Github Servers***) ***22/06/2017***
+1-**The VB Project**: ***http://netb.ee/notepadproongithub*** [**UPDATED**] ***22/06/2017*** (***Uploaded On Github Servers***)
 
 2-**VB With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
-3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] (***Uploaded On Megaload Servers***) ***22/06/2017***
+3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***22/06/2017*** ***Uploaded On Megaload Servers***)
 # ----------------------------------------
 # Support
 
