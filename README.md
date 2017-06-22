@@ -10,25 +10,31 @@
 # ----------------------------------------
 # Added 
 
-**Browser, Forled Locker, Date & time & Calculator & Login Screen**
+**Browser, Forled Locker, Date & time & Calculator & Login Screen & Encrypt Words & Screen Shots**
 # ----------------------------------------
 # Wath's New ?
 
-1-**Login Screen** [***Removed Password**] 
+1-**Login Screen** [***Added Password Again**] 
 
 2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
 
 3-**Edited On Forms Properties**
 
 4-**Removed Some Codes**
+
+5-**Added Option Startup With Windows**
+
+6-**Added Encrypt Words Program**
+
+7-**Added Screen Shots Program**
 # ----------------------------------------
 # Downloads
 
-1-**The VB Project**: ***http://netb.ee/vbproject*** [**UPDATED**] ***19/07/2017***
+1-**The VB Project**: ***http://netb.ee/vbproject*** [**UPDATED**] ***22/06/2017***
 
 2-**VB With Serial**:  ***http://netb.ee/vbnetampserial***
 
-3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***19/07/2017***
+3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***22/06/2017***
 # ----------------------------------------
 # Support
 
