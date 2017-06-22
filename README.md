@@ -17,7 +17,7 @@
 # Wath's New ?
 
 # (For Users)
-1-**Login Screen** [***Added Password Again**] 
+1-**Login Screen** [***Added Password Again***] 
 
 2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
 
@@ -55,7 +55,7 @@
 Send Me E-mail On ***mailto:esmailelbob01124320019@gmail.com*** **From Windows 10, 8.1 & 8 (If You Have** ***E-mail App*****)**
 Or Go Here ***https://mail.google.com/mail/u/0/#inbox?compose=15ccd5cc1e6f0f9a*** **& Wait 1m**
 
-# -*-*-*-*-*-*-*-*-*-*-*-
+# _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 # List Of Partners
 
