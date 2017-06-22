@@ -35,11 +35,11 @@
 
 3-**Removed Some Forms & Added Msgboxs**
 # ----------------------------------------
-# Downloads
+# Downloads (All Links Uploaded By Me)
 
 1-**The VB Project**: ***http://netb.ee/notepadproongithub*** [**UPDATED**] ***22/06/2017*** (***Uploaded On Github Servers***)
 
-2-**VB With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
+2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
 3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***22/06/2017*** ***Uploaded On Megaload Servers***)
 # ----------------------------------------
