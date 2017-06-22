@@ -37,7 +37,7 @@
 # ----------------------------------------
 # Downloads
 
-1-**The VB Project**: ***http://netb.ee/vbproject*** [**UPDATED**] ***22/06/2017***
+1-**The VB Project**: ***http://netb.ee/notepadproongithub*** [**UPDATED**] ***22/06/2017***
 
 2-**VB With Serial**:  ***http://netb.ee/vbnetampserial***
 
