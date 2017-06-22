@@ -7,6 +7,8 @@
 3-***Downloads***
 
 4-***Support***
+
+6-***Partners***
 # ----------------------------------------
 # Added 
 
@@ -41,3 +43,12 @@
 1-**Patreon**: __***https://www.patreon.com/esmailelbob***__
 
 2-**BitCoin**: __***33imQm5ubYNnQ9tpbd1C7xmVVv8GunFNnA***__
+# ----------------------------------------
+# Partners
+
+# List Of Partners
+
+1-....
+
+*Want Be My Partner ?*
+Send Me E-mail On **mailto:esmailelbob01124320019@gmail.com** 
