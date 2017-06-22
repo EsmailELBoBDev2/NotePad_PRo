@@ -12,7 +12,7 @@
 # ----------------------------------------
 # Added 
 
-**Browser, Forled Locker, Date & time & Calculator, Login Screen, Encrypt Words & Screen Shots**
+**Browser, Forled Locker, Date & time & Calculator, Login Screen, Encrypt Words & Screen-Shots Program**
 # ----------------------------------------
 # Wath's New ?
 
