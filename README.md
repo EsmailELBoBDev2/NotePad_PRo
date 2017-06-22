@@ -33,7 +33,7 @@
 
 2-**Removed Some Codes**
 
-3-**Removed Some Forms & Add Msgboxs**
+3-**Removed Some Forms & Added Msgboxs**
 # ----------------------------------------
 # Downloads
 
