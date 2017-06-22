@@ -10,14 +10,14 @@
 
 6-***Partners***
 # ----------------------------------------
-# . 
-Added 
+# Added 
 
 **Browser, Forled Locker, Date & time, Calculator, Login Screen, Encrypt Words & Screen-Shots Program**
 # ----------------------------------------
 # Wath's New ?
 
 # (For Users)
+# .
 1-**Login Screen** [***Added Password Again***] 
 
 2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
