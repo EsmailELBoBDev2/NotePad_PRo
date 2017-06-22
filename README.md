@@ -47,5 +47,9 @@
 # Partners
 
 *Want Be My Partner ?*
-Send Me E-mail On ***mailto:esmailelbob01124320019@gmail.com*** 
-Or Go Here ***https://mail.google.com/mail/u/0/#inbox?compose=15ccd59360b1c3a2*** **& Wait 1m**
+Send Me E-mail On ***mailto:esmailelbob01124320019@gmail.com*** **From Windows 10, 8.1 & 8 (If You Have** ***E-mail App*****)**
+Or Go Here ***https://mail.google.com/mail/u/0/#inbox?compose=15ccd5cc1e6f0f9a*** **& Wait 1m**
+#-*-*-*-*-*-*-*-*-*-*-*
+# List Of Partners
+
+1-***Still Nothing :(***
