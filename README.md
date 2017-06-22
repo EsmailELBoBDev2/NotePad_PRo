@@ -1,4 +1,4 @@
-# All Sttufs Made By @EsmailELBoBDev2
+# All Stuffs Made By @EsmailELBoBDev2
 # ----------------------------------------
 # NotePad PRo
 
