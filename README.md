@@ -40,15 +40,12 @@
 # ----------------------------------------
 # Support
 
-1-**Patreon**: __***https://www.patreon.com/esmailelbob***__
+1-**Patreon**: ***https://www.patreon.com/esmailelbob***
 
-2-**BitCoin**: __***33imQm5ubYNnQ9tpbd1C7xmVVv8GunFNnA***__
+2-**BitCoin**: ***33imQm5ubYNnQ9tpbd1C7xmVVv8GunFNnA***
 # ----------------------------------------
 # Partners
 
-# List Of Partners
-
-1-....
-
 *Want Be My Partner ?*
-Send Me E-mail On **mailto:esmailelbob01124320019@gmail.com** 
+Send Me E-mail On ***mailto:esmailelbob01124320019@gmail.com*** 
+Or Go Here ***https://mail.google.com/mail/u/0/#inbox?compose=15ccd59360b1c3a2*** **& Wait 1m**
