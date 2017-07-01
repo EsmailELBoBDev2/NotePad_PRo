@@ -58,5 +58,3 @@
 **Want Be My Partner ?**
 
 *Send Me E-mail On*  **mailto:esmailelbob01124320019@gmail.com** ***From Windows 10, 8.1 & 8*** 
-
-*Or Go Here*  **https://mailto:esmailelbob01124320019@gmail.com?subject=IWantBePartner** ***& Wait 1m*** (**Must Be Logged In Gmail**)
