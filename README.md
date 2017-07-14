@@ -63,6 +63,6 @@
 
 1- **Join To Live Chat Team**
 
-2- **Join To My Website To Post **
+2- **Join To Posters Team** (***Post Things On My Website***)
 
 3- **Share My New Website To Your Friends** ***https://esmailelbobpro.blogspot.com***
