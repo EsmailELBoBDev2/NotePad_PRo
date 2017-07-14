@@ -21,11 +21,11 @@
 
 # (For Users)
 
-1-**Login Screen** [***Added Password Again***] 
+1-**Login New Screen** [***Added Password Again***] 
 
 2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
 
-3-**Added Option Startup With Windows**
+3-**Removed Browser From Serial**
 
 4-**Added Encrypt Words Program**
 
@@ -37,7 +37,7 @@
 
 2-**Removed Some Codes**
 
-3-**Removed Some Forms & Added Msgboxs**
+3-**Added Descriptions On Buttons For Noobs Users**
 # ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
