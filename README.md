@@ -25,6 +25,8 @@
 2-**Removed Some Codes**
 
 3-**Added Descriptions On Buttons For Noobs Users**
+
+4-**Project Name Changed To*** ***Web browser*** **Because some Glitches But it's Still Same Files** 
 # ----------------------------------------
 ## Downloads (All Links Uploaded By Me)
 
