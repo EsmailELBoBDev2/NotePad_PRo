@@ -57,4 +57,12 @@
 
 **Want Be My Partner ?**
 
-*Send Me E-mail On*  **mailto:esmailelbob01124320019@gmail.com** ***From Windows 10, 8.1 & 8*** 
+*Send Me E-mail On*  **esmailelbob01124320019@gmail.com** ***From Windows 10, 8.1 & 8*** 
+# ----------------------------------------
+# Help Me By:
+
+1- **Join To Live Chat Team**
+
+2- **Join To My Website To Post **
+
+3- **Share My New Website To Your Friends** ***https://esmailelbobpro.blogspot.com***
