@@ -1,7 +1,4 @@
 # All Stuffs Made By @EsmailELBoBDev2
-
-# NotePad PRo
-# ----------------------------------------
 # Contents
 1-***Added***
 
@@ -63,6 +60,6 @@
 
 1- **Join To Live Chat Team**
 
-2- **Join To Posters Team** (***Post Things On My Website***)
+2- **Join To Posters Team**  ( ***Post Things On My Website*** )
 
 3- **Share My New Website To Your Friends** ***https://esmailelbobpro.blogspot.com***
