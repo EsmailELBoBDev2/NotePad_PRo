@@ -41,11 +41,11 @@
 # ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
-1-**The VB Project**: ***http://netb.ee/notepadproongithub*** [**UPDATED**] ***22/06/2017*** (***Uploaded On Github Servers, By Me***)
+1-**The VB Project**: ***http://bit.ly/2uYciO9*** [**UPDATED**] ***7/07/2017*** (***Uploaded On Github Servers, By Me***)
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers, By Me***)
 
-3-**My NORMAL Program**:  ***http://bit.ly/2uYbDwj*** [**UPDATED**] ***22/06/2017*** (***Uploaded On My Server, By Me***)
+3-**My NORMAL Program**:  ***http://bit.ly/2uYbDwj*** [**UPDATED**] ***7/07/2017*** (***Uploaded On My Server, By Me***)
 # ----------------------------------------
 # Support
 
