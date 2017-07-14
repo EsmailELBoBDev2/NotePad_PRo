@@ -26,15 +26,15 @@
 
 3-**Added Descriptions On Buttons For Noobs Users**
 
-4-**Project Name Changed To*** ***Web browser*** **Because some Glitches But it's Still Same Files** 
+4-**Project Name Changed To** ***Web browser*** **Because some Glitches But it's Still Same Files** 
 # ----------------------------------------
 ## Downloads (All Links Uploaded By Me)
 
-1-**The VB Project**: ***http://bit.ly/2uYciO9*** [**UPDATED**] ***7/07/2017*** (***Uploaded On Github Servers***)
+1-**The VB Project**: ***http://bit.ly/nppgithub*** [**UPDATED**] ***7/07/2017*** (***Uploaded On Github Servers***)
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
-3-**My NORMAL Program**:  ***http://bit.ly/2uYbDwj*** [**UPDATED**] ***7/07/2017*** (***Uploaded On My Server***)
+3-**My NORMAL Program**:  ***http://bit.ly/nppprogram** [**UPDATED**] ***7/07/2017*** (***Uploaded On My Server***)
 # ----------------------------------------
 ## Support
 
