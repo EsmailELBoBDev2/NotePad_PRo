@@ -1,15 +1,4 @@
 # All Stuffs Made By @EsmailELBoBDev2
-# Contents
-1-***Added***
-
-2-***What's New?***
-
-3-***Downloads***
-
-4-***Support***
-
-6-***Partners***
-# ----------------------------------------
 # Added 
 
 **Browser, Forled Locker, Date & time, Calculator, Login Screen, Encrypt Words & Screen-Shots Program**
