@@ -48,8 +48,8 @@
 # ----------------------------------------
 ## Help Me By:
 
-1- **Join To Live Chat Team**
+1- **Join To Live Chat Team** ***Apply On:*** **esmailelbob01124320019@gmail.com**
 
-2- **Join To Posters Team**  ( ***Post Things On My Website*** )
+2- **Join To Posters Team**  ( ***Post Things On My Website*** ) ***Apply On:*** **esmailelbob01124320019@gmail.com**
 
 3- **Share My New Website To Your Friends** ***https://esmailelbobpro.blogspot.com***
