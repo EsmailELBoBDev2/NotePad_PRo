@@ -1,12 +1,12 @@
 # All Stuffs Made By @EsmailELBoBDev2
-## NotePad PRo
-# Added 
+# NotePad PRo
+## Added 
 
 **Browser, Forled Locker, Date & time, Calculator, Login Screen, Encrypt Words & Screen-Shots Program**
 # ----------------------------------------
-# Wath's New ?
+## Wath's New ?
 
-# (For Users)
+## (For Users)
 
 1-**Login New Screen** [***Added Password Again***] 
 
@@ -18,7 +18,7 @@
 
 5-**Added Screen Shots Program**
 
-# (For Devs)
+## (For Devs)
 
 1-**Edited On Forms Properties**
 
@@ -26,7 +26,7 @@
 
 3-**Added Descriptions On Buttons For Noobs Users**
 # ----------------------------------------
-# Downloads (All Links Uploaded By Me)
+## Downloads (All Links Uploaded By Me)
 
 1-**The VB Project**: ***http://bit.ly/2uYciO9*** [**UPDATED**] ***7/07/2017*** (***Uploaded On Github Servers***)
 
@@ -34,19 +34,19 @@
 
 3-**My NORMAL Program**:  ***http://bit.ly/2uYbDwj*** [**UPDATED**] ***7/07/2017*** (***Uploaded On My Server***)
 # ----------------------------------------
-# Support
+## Support
 
 1-**Patreon**: ***https://www.patreon.com/esmailelbob***
 
 2-**BitCoin**: ***33imQm5ubYNnQ9tpbd1C7xmVVv8GunFNnA***
 # ----------------------------------------
-# Partners
+## Partners
 
 **Want Be My Partner ?**
 
 *Send Me E-mail On*  **esmailelbob01124320019@gmail.com** ***From Windows 10, 8.1 & 8*** 
 # ----------------------------------------
-# Help Me By:
+## Help Me By:
 
 1- **Join To Live Chat Team**
 
