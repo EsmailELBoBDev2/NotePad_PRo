@@ -45,7 +45,7 @@
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
-3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***22/06/2017*** (***Uploaded On My Server ^_^ ***)
+3-**My NORMAL Program**:  ***http://netb.ee/notepadpro*** [**UPDATED**] ***22/06/2017*** (***Uploaded On My Server***)
 # ----------------------------------------
 # Support
 
