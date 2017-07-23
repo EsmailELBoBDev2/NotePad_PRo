@@ -1,5 +1,6 @@
 # All Stuffs Made By @EsmailELBoBDev2
 # NotePad PRo
+
 ## Added 
 
 **Browser, Forled Locker, Date & time, Calculator, Login Screen, Encrypt Words & Screen-Shots Program**
@@ -8,33 +9,19 @@
 
 ## (For Users)
 
-1-**Login New Screen** [***Added Password Again***] 
-
-2-**Removed Old Browser & Added Tabbed Browser** [***Still in updates***]
-
-3-**Removed Browser From Serial**
-
-4-**Added Encrypt Words Program**
-
-5-**Added Screen Shots Program**
+1-**Added Topmost Option**
 
 ## (For Devs)
 
-1-**Edited On Forms Properties**
-
-2-**Removed Some Codes**
-
-3-**Added Descriptions On Buttons For Noobs Users**
-
-4-**Project Name Changed To** ***Web browser*** **Because some Glitches But it's Still Same Files** 
+1-**Nothing** 
 # ----------------------------------------
 ## Downloads (All Links Uploaded By Me)
 
-1-**The VB Project**: ***http://bit.ly/nppgithub*** [**UPDATED**] ***7/07/2017*** (***Uploaded On Github Servers***)
+1-**The VB Project**: ***http://bit.ly/nppgithub*** [**UPDATED**] ***24/07/2017*** (***Uploaded On Github Servers***)
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
-3-**My NORMAL Program**:  ***http://bit.ly/nppprogram** [**UPDATED**] ***7/07/2017*** (***Uploaded On My Server***)
+3-**My NORMAL Program**:  ***rebrand.ly/npp** [**UPDATED**] ***24/07/2017*** (***Uploaded On My Server***)
 # ----------------------------------------
 ## Support
 
