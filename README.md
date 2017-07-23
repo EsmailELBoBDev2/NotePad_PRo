@@ -33,7 +33,7 @@
 
 1-**Patreon**: ***https://www.patreon.com/esmailelbob***
 
-2-**PayPal**: ***paypal.me/esmailelbobpro1***
+2-**PayPal**: ***www.paypal.me/esmailelbobpro1***
 
 3-**BitCoin**: ***33imQm5ubYNnQ9tpbd1C7xmVVv8GunFNnA***
 # ----------------------------------------
@@ -41,7 +41,7 @@
 
 **Want Be My Partner ?**
 
-*Send Me E-mail On*  **esmailelbob01124320019@gmail.com** ***From Windows 10, 8.1 & 8*** 
+*Send Me E-mail On*  **esmailelbob01124320019@gmail.com**
 # ----------------------------------------
 ## Help Me By:
 
