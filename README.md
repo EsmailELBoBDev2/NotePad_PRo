@@ -9,15 +9,21 @@
 
 ## (For Users)
 
-1-**Added Topmost Option**
+1-**Topmost Option**
+
+2-**Buy Option**
+
+3-**Update Data** (***Usernames***)
+
+4-**Fixed Some Codes**
 
 ## (For Devs)
 
-1-**Nothing** 
+1-**Fixed & Added Codes**
 # ----------------------------------------
 ## Downloads (All Links Uploaded By Me)
 
-1-**The VB Project**: ***http://bit.ly/nppgithub*** [**UPDATED**] ***24/07/2017*** (***Uploaded On Github Servers***)
+1-**The VB Project**: ***rebrand.ly/nppp*** [**UPDATED**] ***24/07/2017*** (***Uploaded On Github Servers***)
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
