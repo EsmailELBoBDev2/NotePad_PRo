@@ -23,11 +23,11 @@
 # ----------------------------------------
 ## Downloads (All Links Uploaded By Me)
 
-1-**The VB Project**: ***rebrand.ly/nppp*** [**UPDATED**] ***24/07/2017*** (***Uploaded On Github Servers***)
+1-**The VB Project**: ***www.rebrand.ly/nppp*** [**UPDATED**] ***24/07/2017*** (***Uploaded On Github Servers***)
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
-3-**My NORMAL Program**:  ***rebrand.ly/npp** [**UPDATED**] ***24/07/2017*** (***Uploaded On My Server***)
+3-**My NORMAL Program**:  ***www.rebrand.ly/npp*** [**UPDATED**] ***24/07/2017*** (***Uploaded On My Server***)
 # ----------------------------------------
 ## Support
 
