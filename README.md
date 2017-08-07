@@ -9,17 +9,13 @@
 
 ## (For Users)
 
-1-**Topmost Option**
+1-**Removed Encrypt Words** (*I will update it :)*)
 
-2-**Buy Option**
-
-3-**Update Data** (***Usernames***)
-
-4-**Fixed Some Codes**
+2-**Fixed All Bugs**
 
 ## (For Devs)
 
-1-**Fixed & Added Codes**
+1-**Fixed Bugs & Added Codes**
 # ----------------------------------------
 ## Downloads (All Links Uploaded By Me)
 
