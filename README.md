@@ -13,6 +13,8 @@
 
 2-**Fixed All Bugs**
 
+3-**Added New Programs/stuff/project**
+
 ## (For Devs)
 
 1-**Fixed Bugs & Added Codes**
