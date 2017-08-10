@@ -25,7 +25,7 @@
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
-3-**My NORMAL Program**:  ***www.rebrand.ly/npp*** [**UPDATED**] ***07/08/2017*** (***Uploaded On My Server***)
+3-**My NORMAL Program**:  ***www.rebrand.ly/npp*** [**UPDATED**] ***07/08/2017*** (***Uploaded On Zippyshare Servers***)
 # ----------------------------------------
 ## Support
 
