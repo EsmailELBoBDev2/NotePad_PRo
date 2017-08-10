@@ -1,9 +1,9 @@
 # All Stuffs Made By @EsmailELBoBDev2
 # NotePad PRo
 
-## Added 
+## Features 
 
-**Browser, Forled Locker, Date & time, Calculator, Login Screen, Encrypt Words & Screen-Shots Program**
+**Browser, Forled Locker, Date & time, Calculator, Encrypt Words & Screen-Shots Program & MORE**
 # ----------------------------------------
 ## Wath's New ?
 
