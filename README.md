@@ -3,7 +3,7 @@
 
 ## Features 
 
-**Browser, Forled Locker, Date & time, Calculator, Encrypt Words & Screen-Shots Program & MORE**
+**Browser, Forled Locker, Date & time, Calculator, Encrypt Wordsو Screen-Shots Program & MORE**
 # ----------------------------------------
 ## Wath's New ?
 
