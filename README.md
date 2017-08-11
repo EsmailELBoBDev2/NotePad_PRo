@@ -5,7 +5,7 @@
 
 **Browser, Forled Locker, Date & time, Calculator, Encrypt Wordsو Screen-Shots Program & MORE**
 # ----------------------------------------
-## Wath's New ?
+## What's New ?
 
 ## (For Users)
 
