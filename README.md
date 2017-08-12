@@ -1,16 +1,16 @@
 ## All Stuffs Made By @EsmailELBoBDev2
 ## NotePad PRo
+
 ## Photo from the project
-
 ![2017-08-12_213626](https://user-images.githubusercontent.com/28893833/29243720-69a00c08-7fa6-11e7-8575-9d5bbfadd07d.png)
-
+# ----------------------------------------
 ## Features 
 
-# **Browser, Forled Locker, Date & time, Calculator, Encrypt Wordsو Screen-Shots Program & MORE**
+**Browser, Forled Locker, Date & time, Calculator, Encrypt Words, Screen-Shots Program & MORE**
 # ----------------------------------------
 ## What's New ?
 
-## (For Users)
+# (For Users)
 
 1-**Removed Encrypt Words** (*I will update it :)*)
 
@@ -18,7 +18,7 @@
 
 3-**Added New Programs/stuffs/projects**
 
-## (For Devs)
+# (For Devs)
 
 1-**Fixed Bugs & Added Codes**
 # ----------------------------------------
@@ -42,7 +42,7 @@
 
 **Want Be My Partner ?**
 
-*Send Me E-mail On*  **esmailelbob01124320019@gmail.com**
+# Send Me E-mail On  **esmailelbob01124320019@gmail.com**
 # ----------------------------------------
 ## Help Me By:
 
@@ -54,7 +54,7 @@
 # ----------------------------------------
 ## My Other Projects
 
-1- **Esmail EL BoB Pro Template (My Website Template)**: ***https://github.com/EsmailELBoBDev2/Esmail-EL-BoB-Pro-Template***
+# Esmail EL BoB Pro Template (My Website Template): ***https://github.com/EsmailELBoBDev2/Esmail-EL-BoB-Pro-Template***
 # ----------------------------------------
 
 # Thx For Used My Program :)
