@@ -13,7 +13,7 @@
 
 2-**Fixed All Bugs**
 
-3-**Added New Look**
+3-**Fixed & Added New Things** (*But i Forget it xD*)
 
 # (For Devs)
 
