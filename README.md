@@ -1,6 +1,3 @@
-## All Stuffs Made By @EsmailELBoBDev2
-## NotePad PRo
-
 ## Photo from the project
 ![2017-08-12_213626](https://user-images.githubusercontent.com/28893833/29243720-69a00c08-7fa6-11e7-8575-9d5bbfadd07d.png)
 # ----------------------------------------
@@ -24,33 +21,20 @@
 # ----------------------------------------
 ## Downloads (All Links Uploaded By Me)
 
-1-**The VB Project**: ***www.rebrand.ly/nppongithub*** [**UPDATED**] ***07/08/2017*** (***Uploaded On Github Servers***)
+1-**The VB Project**: ***www.rebrand.ly/nppongithub*** [**UPDATED**] ***03/09/2017*** (***Uploaded On Github Servers***)
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
-3-**My NORMAL Program**:  ***www.rebrand.ly/npp*** [**UPDATED**] ***07/08/2017*** (***Uploaded On Zippyshare Servers***)
+3-**My NORMAL Program**:  ***www.rebrand.ly/npp*** [**UPDATED**] ***03/09/2017*** (***Uploaded On Zippyshare Servers***)
 # ----------------------------------------
 ## Support
 
-1-**Patreon**: ***https://www.patreon.com/esmailelbob***
+1-**PayPal**: ***www.paypal.me/esmailelbobpro1***
 
-2-**PayPal**: ***www.paypal.me/esmailelbobpro1***
-
-3-**BitCoin**: ***33imQm5ubYNnQ9tpbd1C7xmVVv8GunFNnA***
 # ----------------------------------------
 ## Partners
 
-**Want Be My Partner ?**
-
 # Send Me E-mail On  **esmailelbob01124320019@gmail.com**
-# ----------------------------------------
-## Help Me By:
-
-1- **Join To Live Chat Team** ***Apply On:*** **esmailelbob01124320019@gmail.com**
-
-2- **Join To Posters Team**  ( ***Post Things On My Website*** ) ***Apply On:*** **esmailelbob01124320019@gmail.com**
-
-3- **Share My New Website To Your Friends** ***https://esmailelbobpro.blogspot.com***
 # ----------------------------------------
 ## My Other Projects
 
