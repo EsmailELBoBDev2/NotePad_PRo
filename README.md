@@ -9,11 +9,11 @@
 
 # (For Users)
 
-1-**Removed Encrypt Words** (*I will update it :)*)
+1-**Added Encrypt Words Again :)** (*With New Look*)
 
 2-**Fixed All Bugs**
 
-3-**Added New Programs/stuffs/projects**
+3-**Added New Look**
 
 # (For Devs)
 
