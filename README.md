@@ -5,7 +5,6 @@
 
 **Browser, Forled Locker, Date & time, Calculator, Encrypt Words, Screen-Shots Program & MORE**
 ## ----------------------------------------
-
 # What's New ?
 
 ## (For Users)
@@ -21,36 +20,28 @@
 ## (For Devs)
 
 1-**Fixed Bugs & Added Codes**
-
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
-1-**The VB Project**: ***www.rebrand.ly/nppongithub*** [**UPDATED**] ***01/10/2017*** (***Uploaded On Github Servers***)
+1-**The VB Project**(*.sln*): ***www.rebrand.ly/nppongithub*** [**UPDATED**] ***01/10/2017*** (***Uploaded On Github Servers***)
 
-2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
-
-3-**My NORMAL Program**:  ***www.rebrand.ly/npp*** [**UPDATED**] ***01/10/2017*** (***Uploaded On Zippyshare Servers***)
-
+2-**My Program**(*.exe*):  ***www.rebrand.ly/npp*** [**UPDATED**] ***01/10/2017*** (***Uploaded On Meglaload Servers***)
 ## ----------------------------------------
-
 # Support
 
 1-**PayPal**: ***www.paypal.me/esmailelbobpro1***
 
 ## ----------------------------------------
-
 # Partners
 
 1-**Esmail EL BoB**
 
 # If you want add your name ,Send Me E-mail On  **esmailelbob01124320019@gmail.com**
-
 ## ----------------------------------------
 
 # My Other Projects
 
 ## Esmail EL BoB Pro Template (My Website Template): ***https://github.com/EsmailELBoBDev2/Esmail-EL-BoB-Pro-Template***
-
 ## ----------------------------------------
 
 # Thx For Used My Program :)
