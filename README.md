@@ -43,8 +43,7 @@
 
 1-**Esmail EL BoB**
 
-(**If you want add your name, plz send me E-mail**)
-# Send Me E-mail On  **esmailelbob01124320019@gmail.com**
+# If you want add your name ,Send Me E-mail On  **esmailelbob01124320019@gmail.com**
 
 ## ----------------------------------------
 
