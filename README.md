@@ -25,7 +25,7 @@
 
 1-**The VB Project**(*.sln*): ***www.rebrand.ly/nppongithub*** [**UPDATED**] ***01/10/2017*** (***Uploaded On Github Servers***)
 
-2-**My Program**(*.exe*):  ***www.rebrand.ly/npp*** [**UPDATED**] ***01/10/2017*** (***Uploaded On Meglaload Servers***)
+2-**My Program**(*.exe*):  ***www.rebrand.ly/npp*** [**UPDATED**] ***01/10/2017*** (***Uploaded On megaload.co Servers***)
 ## ----------------------------------------
 # Support
 
