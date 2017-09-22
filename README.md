@@ -1,5 +1,5 @@
 # Photo from the project
-![2017-08-12_213626](https://user-images.githubusercontent.com/28893833/29243720-69a00c08-7fa6-11e7-8575-9d5bbfadd07d.png)
+![2017-08-12_213626](https://)
 ## ----------------------------------------
 # Features 
 
@@ -10,11 +10,13 @@
 
 ## (For Users)
 
-1-**Added Encrypt Words Again :)** (*With New Look*)
+1-**Added Arabic Language** (*You can help me too add your Language too ;)*)
 
-2-**Fixed All Bugs**
+2-**Fixed some bugs**
 
-3-**Fixed & Added New Things** (*But i Forget it xD*)
+3-**Made a program totally free** (*Still you can buy addons if you want support me ;)*)
+
+4-**Added more things but i not remember it xd**
 
 ## (For Devs)
 
@@ -23,11 +25,11 @@
 ## ----------------------------------------
 # Downloads (All Links Uploaded By Me)
 
-1-**The VB Project**: ***www.rebrand.ly/nppongithub*** [**UPDATED**] ***03/09/2017*** (***Uploaded On Github Servers***)
+1-**The VB Project**: ***www.rebrand.ly/nppongithub*** [**UPDATED**] ***01/10/2017*** (***Uploaded On Github Servers***)
 
 2-**VB 2010 With Serial**:  ***http://netb.ee/vbnetampserial*** (***Uploaded On Dropbox Servers***)
 
-3-**My NORMAL Program**:  ***www.rebrand.ly/npp*** [**UPDATED**] ***03/09/2017*** (***Uploaded On Zippyshare Servers***)
+3-**My NORMAL Program**:  ***www.rebrand.ly/npp*** [**UPDATED**] ***01/10/2017*** (***Uploaded On Zippyshare Servers***)
 
 ## ----------------------------------------
 
@@ -39,7 +41,10 @@
 
 # Partners
 
-## Send Me E-mail On  **esmailelbob01124320019@gmail.com**
+1-**Esmail EL BoB**
+
+(**If you want add your name, plz send me E-mail**)
+# Send Me E-mail On  **esmailelbob01124320019@gmail.com**
 
 ## ----------------------------------------
 
