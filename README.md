@@ -1,5 +1,5 @@
 # Photo from the project
-![NPP](https://imgur.com/a/endyB)
+![2017-09-22_222640](https://user-images.githubusercontent.com/28893833/30763333-fe79c8f0-9fe5-11e7-8af4-a9e2c7bb8c5f.png)
 ## ----------------------------------------
 # Features 
 
