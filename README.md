@@ -9,7 +9,7 @@
 
 ## (For Users)
 
-1-**Added "Select Theme"** (*You can help me too add your Language too ;)*)
+1-**Added "Select Theme"** 
 
 2-**Fixed some bugs**
 
