@@ -9,13 +9,9 @@
 
 ## (For Users)
 
-1-**Added Arabic Language** (*You can help me too add your Language too ;)*)
+1-**Added "Select Theme"** (*You can help me too add your Language too ;)*)
 
 2-**Fixed some bugs**
-
-3-**Made a program totally free** (*Still you can buy addons if you want support me ;)*)
-
-4-**Added more things but i not remember it xd**
 
 ## (For Devs)
 
