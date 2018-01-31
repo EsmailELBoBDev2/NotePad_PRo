@@ -27,6 +27,8 @@
 
 1-**PayPal**: ***www.paypal.me/esmailelbobpro1***
 
+2-**Bitcoin**: ***1BTiidPZ16cNUnbcUAEm7tN8AmNF159jgB***
+
 ## ----------------------------------------
 # Partners
 
