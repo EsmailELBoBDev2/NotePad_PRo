@@ -29,9 +29,9 @@
 
 1-**PayPal**: ***www.paypal.me/esmailelbobpro1***
 
-2-**Bitcoin**: ***14XPxLPnHxKKRxUGZ4mHHpa1ggNFa1bZaZ***
+2-**Patreon**: ***https://www.patreon.com/esmailelbob***
 
-3-**Patreon** *NEW*: ***https://www.patreon.com/esmailelbob***
+3-**Bitcoin**: ***14XPxLPnHxKKRxUGZ4mHHpa1ggNFa1bZaZ***
 ## ----------------------------------------
 # Partners
 
