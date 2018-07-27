@@ -31,17 +31,16 @@
 
 2-**Bitcoin**: ***14XPxLPnHxKKRxUGZ4mHHpa1ggNFa1bZaZ***
 
+3-**Patreon** *NEW*: ***https://www.patreon.com/esmailelbob***
 ## ----------------------------------------
 # Partners
 
-1-**Esmail EL BoB**
-
-# If you want add your name ,Send Me E-mail On  **esmailelbob01124320019@gmail.com**
+**Support Me To Add Your Name Here**
 ## ----------------------------------------
 
 # My Other Projects
 
-## Esmail EL BoB Pro Template (My Website Template): ***https://github.com/EsmailELBoBDev2/Esmail-EL-BoB-Pro-Template***
+**https://github.com/EsmailELBoBDev2?tab=repositories**
 ## ----------------------------------------
 
 # Thx For Used My Program :)
