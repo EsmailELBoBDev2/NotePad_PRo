@@ -6,7 +6,7 @@
 
 | No.  | Name | Link |
 | ------------- | ------------- | ------------- |
-| 1  | Features  | https://github.com/EsmailELBoBDev2/NotePad_PRo#----------------------------------------  |
+| 1  | Features  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------1  |
 | 2  | What's New ? | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------2  |
 | 3  | How To Install  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------3  |
 | 4  | Downloads  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
