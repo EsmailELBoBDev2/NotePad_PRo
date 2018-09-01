@@ -7,13 +7,13 @@
 | No.  | Name | Link |
 | ------------- | ------------- | ------------- |
 | 1  | Features  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------1  |
-| 2  | What's New ? | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------2  |
-| 3  | How To Install  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------3  |
-| 4  | Downloads  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------4  |
-| 5  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------5  |
-| 6  | Supporters  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------6  |
-| 7  | My Other Projects  |https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------7  |
-| 8  | Thx!  | https://github.com/EsmailELBoBDev2/my-personal-website#-----------------------------------------8  |
+| 2  | What's New ? | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------2  |
+| 3  | How To Install  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------3  |
+| 4  | Downloads  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------4 |
+| 5  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------5  |
+| 6  | Supporters  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------6  |
+| 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------7  |
+| 8  | Thx!  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------8  |
 ## ----------------------------------------
 # Features 
 
