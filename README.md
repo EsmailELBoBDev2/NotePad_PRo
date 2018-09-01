@@ -49,13 +49,9 @@
 
 2-**My Program**(*.exe*):  ***www.rebrand.ly/npp*** [**UPDATED**] ***31/10/2017*** (***Uploaded On Google Servers***)
 ## ----------------------------------------
-# Buy Me A Coffe (*Support*)
+# Buy Me A Coffee (*Support*)
 
-1-**PayPal**: ***www.paypal.me/esmailelbobpro1***
-
-2-**Patreon**: ***https://www.patreon.com/esmailelbob***
-
-3-**Bitcoin**: ***14XPxLPnHxKKRxUGZ4mHHpa1ggNFa1bZaZ***
+**Buy Me A Coffee**: ***https://buymeacoff.ee/esmailelbobdev2***
 ## ----------------------------------------
 # Supporters
 
