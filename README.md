@@ -33,9 +33,9 @@
 ## ----------------------------------------
 # How To Install
 
-1-**Download Projects File** *http://www.rebrand.ly/nppongithub*
+1-**Download Projects File**: *http://www.rebrand.ly/nppongithub*
 
-2-**Download Visual Studio 2013** (*Skip This, If You Already Have One*) *https://bit.ly/2wz33X5*
+2-**Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://bit.ly/2wz33X5*
 
 3-**Extract Files** (*On Dektop As Example*)
 
@@ -47,7 +47,7 @@
 
 2-**Visual Studio**(*.iso*): **https://bit.ly/2wz33X5**
 
-2-**My Program**(*.exe*):  ***www.rebrand.ly/npp*** [**UPDATED**] ***31/10/2017*** (***Uploaded On Google Servers***)
+2-**The Nornal Copy Of My App**(*.exe*):  ***www.rebrand.ly/npp*** [**UPDATED**] ***31/10/2017*** (***Uploaded On Google Servers***)
 ## ----------------------------------------
 # Support
 
