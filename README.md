@@ -33,7 +33,7 @@
 ## ----------------------------------------
 # How To Install
 
-1-**Download Projects File**: *http://www.rebrand.ly/nppongithub*
+1-**Download Projects File**: *https://bit.ly/2zChxX2* (*Remove* **readme.md** *file*)
 
 2-**Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://bit.ly/2wz33X5*
 
