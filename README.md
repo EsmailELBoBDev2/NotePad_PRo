@@ -10,7 +10,7 @@
 | 2  | What's New ? | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------2  |
 | 3  | How To Install  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------3  |
 | 4  | Downloads  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------4 |
-| 5  | Buy Me A Coffee  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------5  |
+| 5  | Support  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------5  |
 | 6  | Supporters  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------6  |
 | 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------7  |
 | 8  | Thx!  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------8  |
@@ -49,10 +49,17 @@
 
 2-**My Program**(*.exe*):  ***www.rebrand.ly/npp*** [**UPDATED**] ***31/10/2017*** (***Uploaded On Google Servers***)
 ## ----------------------------------------
-# Buy Me A Coffee (*Support*)
+# Support
 
-**Buy Me A Coffee**: ***https://buymeacoff.ee/esmailelbobdev2***
+**From Buy Me A Coffee Website**: ***https://buymeacoff.ee/esmailelbobdev2***
+
+or
+
+**From Brave Browser** *Referral Link*: ***https://brave.com/esm389***
+
 ## ----------------------------------------
+
+
 # Supporters
 
 **Support Me To Add Your Name Here** :stuck_out_tongue:
