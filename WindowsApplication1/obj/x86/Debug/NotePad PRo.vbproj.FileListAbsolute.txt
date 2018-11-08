@@ -1,0 +1,38 @@
+E:\NotePad PRo\WindowsApplication1\bin\Debug\NotePad PRo.exe.config
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad PRo.exe
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad PRo.xml
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad PRo.pdb
+E:\NotePad PRo\WindowsApplication1\bin\Debug\NotePad PRo.exe.manifest
+E:\NotePad PRo\WindowsApplication1\bin\Debug\NotePad PRo.application
+E:\NotePad PRo\WindowsApplication1\bin\Debug\NotePad PRo.exe
+E:\NotePad PRo\WindowsApplication1\bin\Debug\NotePad PRo.pdb
+E:\NotePad PRo\WindowsApplication1\bin\Debug\NotePad PRo.xml
+E:\NotePad PRo\WindowsApplication1\bin\Debug\af\NotePad PRo.resources.dll
+E:\NotePad PRo\WindowsApplication1\bin\Debug\ar-KW\NotePad PRo.resources.dll
+E:\NotePad PRo\WindowsApplication1\bin\Debug\en-US\NotePad PRo.resources.dll
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad PRo.vbprojResolveAssemblyReference.cache
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form12.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form13.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form14.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form15.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form16.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form17.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form18.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.form10.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form2.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form3.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form4.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form5.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form6.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form7.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form8.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Resources.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form2.af.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form2.ar-KW.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad_PRo.Form2.en-US.resources
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad PRo.vbproj.GenerateResource.Cache
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\af\NotePad PRo.resources.dll
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\ar-KW\NotePad PRo.resources.dll
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\en-US\NotePad PRo.resources.dll
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad PRo.exe.manifest
+E:\NotePad PRo\WindowsApplication1\obj\x86\Debug\NotePad PRo.application
