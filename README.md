@@ -6,7 +6,7 @@
 | ------------- | ------------- | ------------- |
 | 1  | Features  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------1  |
 | 2  | What's New ? | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------2  |
-| 3  | How To Install  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------3  |
+| 3  | How To Edit Codes  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------3  |
 | 4  | Downloads  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------4 |
 | 5  | Support  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------5  |
 | 6  | Supporters  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------6  |
@@ -24,10 +24,10 @@
 ## (For Devs)
 1. **Fixed Bugs & Added Codes**
 ## ----------------------------------------
-# How To Install
+# How To Edit Codes
 1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git` (*Remove* **readme.md** *file*)
 
-2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://bit.ly/2wz33X5*
+2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://1n.pm/hCbjZ*
 
 3. **Extract Files** (*On Dektop As Example*)
 
@@ -35,11 +35,11 @@
 ## ----------------------------------------
 # Downloads
 
-**The VB Project**(*.sln*): ***www.rebrand.ly/nppongithub***
+**Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git`
 
-**Visual Studio**(*.iso*): ***https://bit.ly/2wz33X5***
+**Visual Studio**(*.iso*): ***https://1n.pm/hCbjZ***
 
-**The NPP App**(*.exe*): ***https://bit.ly/2rXfwRN***
+**The NPP App**(*.exe*): ***https://1n.pm/k51Rs***
 ## ----------------------------------------
 # Support
 **Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
