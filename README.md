@@ -25,7 +25,7 @@
 1. **Fixed Bugs & Added Codes**
 ## ----------------------------------------
 # How To Install
-1. **Download Project Files**: *https://bit.ly/2zChxX2* (*Remove* **readme.md** *file*)
+1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git` (*Remove* **readme.md** *file*)
 
 2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://bit.ly/2wz33X5*
 
