@@ -10,8 +10,9 @@
 | 4  | Downloads  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------4 |
 | 5  | Support  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------5  |
 | 6  | Supporters  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------6  |
-| 7  | My Other Projects  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------7  |
-| 8  | Thx!  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------8  |
+| 7  | License  | https://github.com/EsmailELBoBDev2/my-personal-website/blob/license/LICENSE |
+| 8  | My Other Projects  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------7  |
+| 9  | Thx!  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------8  |
 ## ----------------------------------------
 # Features 
 **Browser, Forled Locker, Date & time, Calculator, Encrypt Words, Screen-Shots Program & MORE**
@@ -25,7 +26,7 @@
 1. **Fixed Bugs & Added Codes**
 ## ----------------------------------------
 # How To Edit Codes
-1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git` (*Remove* **readme.md** *file*)
+1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git` (*You Not Need* **readme.md** *,* **LICENSE** *files*)
 
 2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://1n.pm/hCbjZ*
 
