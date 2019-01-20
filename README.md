@@ -26,7 +26,7 @@
 1. **Fixed Bugs & Added Codes**
 ## ----------------------------------------
 # How To Edit Codes
-1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git` (*You Not Need* **readme.md** *,* **LICENSE** *files*)
+1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git` (*You Not Need*: **readme.md** *,* **LICENSE** *files*)
 
 2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://1n.pm/hCbjZ*
 
