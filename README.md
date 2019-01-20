@@ -10,7 +10,7 @@
 | 4  | Downloads  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------4 |
 | 5  | Support  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------5  |
 | 6  | Supporters  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------6  |
-| 7  | License  | https://github.com/EsmailELBoBDev2/my-personal-website/blob/license/LICENSE |
+| 7  | License  | https://github.com/EsmailELBoBDev2/NotePad_PRo/blob/master/LICENSE |
 | 8  | My Other Projects  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------7  |
 | 9  | Thx!  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------8  |
 ## ----------------------------------------
