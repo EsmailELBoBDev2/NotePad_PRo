@@ -28,7 +28,7 @@
 # How To Edit Codes
 1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git` (*You Not Need*: **README.md** *,* **LICENSE** *files*)
 
-2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://yerl.org/5PJau*
+2. **Download Visual Studio 2013** (*Skip This, If You Already Have It*): *https://yerl.org/TnkMy*
 
 3. **Extract Files** (*On Dektop As Example*)
 
