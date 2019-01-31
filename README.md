@@ -28,7 +28,7 @@
 # How To Edit Codes
 1. **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git` (*You Not Need*: **README.md** *,* **LICENSE** *files*)
 
-2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://1n.pm/hCbjZ*
+2. **Download Visual Studio 2013** (*Skip This, If You Already Have One*): *https://yerl.org/5PJau*
 
 3. **Extract Files** (*On Dektop As Example*)
 
@@ -38,9 +38,9 @@
 
 **Clone Project Files**: `git clone https://github.com/EsmailELBoBDev2/NotePad_PRo.git`
 
-**Visual Studio**(*.iso*): ***https://1n.pm/hCbjZ***
+**Visual Studio**(*.iso*): ***https://yerl.org/TnkMy***
 
-**The NPP App**(*.exe*): ***https://1n.pm/k51Rs***
+**The NPP App**(*.exe*): ***https://yerl.org/FK46z***
 ## ----------------------------------------
 # Support
 **Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
