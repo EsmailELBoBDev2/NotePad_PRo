@@ -8,11 +8,9 @@
 | 2  | What's New ? | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------2  |
 | 3  | How To Edit Codes  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------3  |
 | 4  | Downloads  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------4 |
-| 5  | Support  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------5  |
-| 6  | Supporters  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------6  |
-| 7  | License  | https://github.com/EsmailELBoBDev2/NotePad_PRo/blob/master/COPYING |
-| 8  | My Other Projects  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------7  |
-| 9  | Thx!  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------8  |
+| 5  | License  | https://github.com/EsmailELBoBDev2/NotePad_PRo/blob/master/COPYING |
+| 6  | My Other Projects  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------7  |
+| 7  | Thx!  | https://github.com/EsmailELBoBDev2/NotePad_PRo#-----------------------------------------8  |
 ## ----------------------------------------
 # Features 
 **Browser, Forled Locker, Date & time, Calculator, Encrypt Words, Screen-Shots Program & MORE**
@@ -42,13 +40,10 @@
 
 **The NPP App**(*.exe*): ***https://yerl.org/FK46z***
 ## ----------------------------------------
-# Support
-**Buy Me A Coffee**: ***https://paypal.me/esmailelbobpro1***
-## ----------------------------------------
-# Supporters
-**Support Me To Add Your Name Here** :stuck_out_tongue:
-## ----------------------------------------
 # My Other Projects
 **https://github.com/EsmailELBoBDev2?tab=repositories** *,* **https://gitlab.com/users/EsmailELBoBDev2/projects**
 ## ----------------------------------------
-# Thx For Used My Program :smiley:
+# Thx For Use My Projects :smiley:
+
+
+
